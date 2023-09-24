@@ -1,0 +1,139 @@
+RewriteEngine On
+# RewriteCond %{HTTP_HOST} !^www.drumpcsl.com$
+# RewriteRule ^(.*)$ https://www.drumpcsl.com/$1 [R=301,L]
+
+RewriteRule ^history$ history.php
+RewriteRule ^history/$ history.php
+RewriteRule ^observation$ observation.php
+RewriteRule ^observation/$ observation.php
+RewriteRule ^magazine$ magazine.php
+RewriteRule ^magazine/$ magazine.php
+RewriteRule ^space-message$ space-message.php
+RewriteRule ^space-message/$ space-message.php
+RewriteRule ^contact$ contact.php
+RewriteRule ^contact/$ contact.php
+RewriteRule ^book-1$ book-1.php
+RewriteRule ^book-1/$ book-1.php
+RewriteRule ^contact$ contact.php
+RewriteRule ^contact/$ contact.php
+RewriteRule ^journal$ journal.php
+RewriteRule ^journal/$ journal.php
+RewriteRule ^missionVision$ mission-vision.php
+RewriteRule ^missionVision/$ mission-vision.php
+RewriteRule ^skyObservation$ sky-observation.php
+RewriteRule ^skyObservation/$ sky-observation.php
+RewriteRule ^sunEclipseObservation$ sun-eclipse-observation.php
+RewriteRule ^sunEclipseObservation/$ sun-eclipse-observation.php
+RewriteRule ^moonEclipseObservation$ moon-eclipse-observation.php
+RewriteRule ^moonEclipseObservation/$ moon-eclipse-observation.php
+RewriteRule ^cometObservation$ comet-observation.php
+RewriteRule ^cometObservation/$ comet-observation.php
+RewriteRule ^sunFest$ sun-fest.php
+RewriteRule ^sunFest/$ sun-fest.php
+RewriteRule ^astroOlympiad$ astro-olympiad.php
+RewriteRule ^astroOlympiad/$ astro-olympiad.php
+RewriteRule ^sputnicFest$ sputnic-fest.php
+RewriteRule ^sputnicFest/$ sputnic-fest.php
+RewriteRule ^spaceFest$ space-fest.php
+RewriteRule ^childFest/$ space-fest.php
+RewriteRule ^childFest$ child-fest.php
+RewriteRule ^spaceFest/$ child-fest.php
+RewriteRule ^uriGagarinwFest$ uri-gagarinw-fest.php
+RewriteRule ^uriGagarinwFest/$ uri-gagarinw-fest.php
+RewriteRule ^valentinaTerescovaFest$ valentina-terescova-fest.php
+RewriteRule ^valentinaTerescovaFest/$ valentina-terescova-fest.php
+RewriteRule ^othersPublications$ others-publications.php
+RewriteRule ^othersPublications/$ others-publications.php
+RewriteRule ^gallary$ gallery.php
+RewriteRule ^gallary/$ gallery.php
+RewriteRule ^contactUs$ contact.php
+RewriteRule ^contactUs/$ contact.php
+
+
+#RewriteRule ^(AdminApan|PanelDesh|english|archives|phpmyadmin|videogallery|converter)($|/) - [L]
+
+
+#RewriteRule ^([\w]+)-([\w]+)/([\w]+)-([\w]+)/([0-9]+)/([^&]-)/$  details.php?nssl=$5
+#RewriteRule ^([\w]+)-([\w]+)/([\w]+)-([\w]+)/([0-9]+)/([^&]-)$  details.php?nssl=$5
+
+
+<IfModule mod_expires.c>
+ExpiresActive on
+ExpiresDefault				"access plus 1 month"
+
+##CSS
+ExpiresByType text/css			"access plus 1 year"
+
+##Data interchange
+ExpiresByType application/atom+xml	"access plus 1 hour"
+ExpiresByType application/rdf+xml	"access plus 1 hour"
+ExpiresByType application/rss+xml	"access plus 1 hour"
+
+ExpiresByType application/json		"access plus 0 seconds"
+ExpiresByType application/ld+json	"access plus 0 seconds"
+ExpiresByType application/schema+json	"access plus 0 seconds"
+ExpiresByType application/vnd.geo+json	"access plus 0 seconds"
+ExpiresByType application/xml		"access plus 0 seconds"
+ExpiresByType text/xml			"access plus 0 seconds"
+
+#Favicon (cannot be renamed!) and cursor images
+ExpiresByType image/vnd.microsoft.icon	"access plus 1 year"
+ExpiresByType image/x-icon		"access plus 1 year"
+
+#HTML
+ExpiresByType text/html			"access plus 0 seconds"
+
+#JavaScript
+ExpiresByType application/javascript	"access plus 1 year"
+ExpiresByType application/x-javascript	"access plus 1 year"
+ExpiresByType text/javascript		"access plus 1 year"
+
+#Manifest files
+ExpiresByType application/manifest+json	"access plus 1 week"
+ExpiresByType application/x-web-app-manifest+jso	"access plus 0 seconds"
+ExpiresByType text/cache-manifest	"access plus 0 seconds"
+
+
+#Media files
+ExpiresByType audio/ogg			"access plus 1 month"
+ExpiresByType image/bmp			"access plus 1 month"
+ExpiresByType image/gif			"access plus 1 month"
+ExpiresByType image/jpeg		"access plus 1 month"
+ExpiresByType image/png			"access plus 1 month"
+ExpiresByType image/svg+xml		"access plus 1 month"
+ExpiresByType image/webp		"access plus 1 month"
+ExpiresByType video/mp4			"access plus 1 month"
+ExpiresByType video/ogg			"access plus 1 month"
+ExpiresByType video/webm		"access plus 1 month"
+
+#Web fonts
+#Embedded OpenType (EOT)
+ExpiresByType application/vnd.ms-fontobject	"access plus 1 year"
+ExpiresByType font/eot			"access plus 1 year"
+
+#OpenType
+ExpiresByType font/opentype		"access plus 1 year"
+
+#TrueType
+ExpiresByType application/x-font-ttf	"access plus 1 year"
+
+#Web Open Font Format (WOFF) 1.0
+ExpiresByType application/font-woff	"access plus 1 year"
+ExpiresByType application/x-font-woff	"access plus 1 year"
+ExpiresByType font/woff			"access plus 1 year"
+
+#Web Open Font Format (WOFF) 2.0
+ExpiresByType application/font-woff2	"access plus 1 year"
+
+#Other
+ExpiresByType text/x-cross-domain-policy "access plus 1 week"
+</IfModule>
+
+ErrorDocument 400     /error.php
+ErrorDocument 401     /error.php
+ErrorDocument 403     /error.php
+ErrorDocument 404     /error.php
+ErrorDocument 500     /error.php
+ErrorDocument 501     /error.php
+ErrorDocument 502     /error.php
+ErrorDocument 503     /error.php
