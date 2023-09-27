@@ -11,7 +11,7 @@
 					</div>
 					<div class="col-lg-4 m-auto">
 						<p class="d-lg-flex d-none align-items-center">
-							<span class="d-flex align-items-center mr-3">
+							<span class="d-flex align-items-center ml-3">
 								রোববার ০৩ সেপ্টেম্বর ২০২৩ || ভাদ্র ১৯ ১৪৩০
 
 							</span>
@@ -34,10 +34,7 @@
 							<a href="/" aria-label="Linkedin" target="_blank">
 								<div class="social-icon linkedin"><i class="fa-brands fa-linkedin-in"></i></div>
 							</a>
-							<a href="#">
-								<div class="social-icon" onclick="showSearchBox()" style="background: #F34A38;"><i class="fa-solid fa-magnifying-glass"></i>
-								</div>
-							</a>
+
 						</div>
 					</div>
 				</div>
@@ -45,37 +42,35 @@
 		</div>
 	</div>
 	<!-- top-search-box -->
-	<!-- <div id="searchcontainer" class="hidden">
-            <div id="search" class="search_block" style="display: block;">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <form id="cse-search-box" action="/keywordsearch" method="get">
-                                <div class="search_logo display-flex">
-                                    <input type="hidden" name="cx" value="ea09f3fc43677ad37">
-                                    <input type="hidden" name="cof" value="FORID:10">
-                                    <input type="hidden" name="ie" value="UTF-8">
-                                    <input name="search" class="search-bar" placeholder="অনুসন্ধান করুন" title="Search"
-                                        type="search">
-                                    <button onclick="performSearch()"><i id="searchButton" class="fa fa-search"></i></button>
-                                    <a onclick="hideSearchBox()" class="close-search"id="closeButton"  href="#"><i
-                                            class="fa fa-times"></i></a>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
+	<div id="searchcontainer" class="hidden">
+		<div id="search" class="search_block" style="display: block;">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<form id="cse-search-box" action="/keywordsearch" method="get">
+							<div class="search_logo display-flex">
+								<input type="hidden" name="cx" value="ea09f3fc43677ad37">
+								<input type="hidden" name="cof" value="FORID:10">
+								<input type="hidden" name="ie" value="UTF-8">
+								<input name="search" class="search-bar" placeholder="অনুসন্ধান করুন" title="Search" type="search">
+								<button onclick="performSearch()"><i id="searchButton" class="fa fa-search"></i></button>
+								<a onclick="hideSearchBox()" class="close-search" id="closeButton" href="#"><i class="fa fa-times"></i></a>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
 
-            </div>
-        </div> -->
+		</div>
+	</div>
 
 	<!-- main navbar -->
 	<div class="DHeaderNav  stickyNav" id="sticky-navbar">
 		<div class="container">
 			<div class="row ">
 				<div class="col-lg-12">
-					<nav class="navbar navbar-default navbar-expand-lg">
-						<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+					<nav class="navbar navbar-default navbar-expand-lg ">
+						<button class="navbar-toggler navbar-dark" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
 							<span class="navbar-toggler-icon"></span>
 						</button>
 						<div class="collapse navbar-collapse" id="navbarTogglerDemo01">
@@ -109,10 +104,18 @@
 
 									</ul>
 								</li>
-								<li class="nav-item"><a class="nav-link" href="#"><i class="fas fa-search" aria-hidden="true"></i></a></li>
+								<li class="nav-item">
+									<a class="nav-link">
+										<div onclick="showSearchBox()"><i class="fas fa-search"></i>
+										</div>
+									</a>
+								</li>
 							</ul>
 						</div>
 					</nav>
+				
+
+
 				</div>
 			</div>
 		</div>

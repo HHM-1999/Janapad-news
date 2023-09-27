@@ -68,7 +68,9 @@
 									<div class="col-lg-5">
 										<div class="Desc">
 											<h1 class="Title">জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর</h1>
-											<p class="quote">আলমগীর স্বপন: দ্বাদশ জাতীয় সংসদ নির্বাচন ঘিরে দুই শীর্ষ
+											<p class="quote">আলমগীর স্বপন:  দ্বাদশ জাতীয় সংসদ নির্বাচন ঘিরে দুই শীর্ষ
+												রাজনৈতিক দলের কৌশল এবার ভিন্ন হবেদ্বাদশ জাতীয় সংসদ নির্বাচন ঘিরে দুই শীর্ষ
+												রাজনৈতিক দলের কৌশল এবার ভিন্ন হবেদ্বাদশ জাতীয় সংসদ নির্বাচন ঘিরে দুই শীর্ষ
 												রাজনৈতিক দলের কৌশল এবার ভিন্ন হবে </p>
 										</div>
 									</div>
@@ -83,7 +85,7 @@
 									<div class="main-news-list">
 										<a href="#">
 											<picture>
-												<img class="img-fluid img100" src="media/imgAll/bg/list-img-1.webp" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+												<img class="img-fluid img100" src="media/imgAll/bg/lead-list-1.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
 											</picture>
 											<div class="desc">
 												<h2 class="lead-news-list-title">
@@ -98,11 +100,11 @@
 									<div class="main-news-list">
 										<a href="#">
 											<picture>
-												<img class="img-fluid img100" src="media/imgAll/bg/list-img-1.webp" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+												<img class="img-fluid img100" src="media/imgAll/bg/image_26686_1695790461.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
 											</picture>
 											<div class="desc">
 												<h2 class="lead-news-list-title">
-													সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
+													 শুরুতে ট্রায়াল রান সেপ্টেম্বরের শুরুতে ট্রায়াল রান
 												</h2>
 											</div>
 
@@ -113,11 +115,11 @@
 									<div class="main-news-list">
 										<a href="#">
 											<picture>
-												<img class="img-fluid img100" src="media/imgAll/bg/list-img-1.webp" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+												<img class="img-fluid img100" src="media/imgAll/bg/image_26694_1695795330.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
 											</picture>
 											<div class="desc">
 												<h2 class="lead-news-list-title">
-													সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
+												গত কয়েক দিনে কী ঘটেছে, মুখ খুলছেন তামিম
 												</h2>
 											</div>
 
@@ -128,11 +130,11 @@
 									<div class="main-news-list">
 										<a href="#">
 											<picture>
-												<img class="img-fluid img100" src="media/imgAll/bg/list-img-1.webp" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+												<img class="img-fluid img100" src="media/imgAll/bg/image-26691-1695796120.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
 											</picture>
 											<div class="desc">
 												<h2 class="lead-news-list-title">
-													সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
+												বিশ্বকাপ খেলতে বিকেলে দেশ ছাড়ছে বাংলাদেশ দল
 												</h2>
 											</div>
 
@@ -163,18 +165,14 @@
 
 										</div>
 										<div class="desc">
+											<a href="#">
 											<h2 class="national-title">
-												সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
+											ইরাকে বিয়ের অনুষ্ঠানে ভয়াবহ অগ্নিকাণ্ড, নিহত ১১৩
 											</h2>
-											<p class="national-text">
-												সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন,সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন,
-												সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন,সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
-												সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন,সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন,
-												সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন,সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
-												সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন,সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন,
-												সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন,সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
-												সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন,সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন,
-												সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন,সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
+											</a>
+											<p class="national-text">নিখোঁজের ১৮ ঘণ্টা পর মা ও দুই ছেলের মরদেহ উদ্ধার |
+											ইরাকে বিয়ের অনুষ্ঠানে ভয়াবহ অগ্নিকাণ্ড, নিহত ১১৩.বৃহস্পতিবার থেকে ৩ দিনের ছুটিতে দেশ
+											বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা ওপেনার তামিম ইকবাল। মঙ্গলবার (২৬ সেপ্টেম্বর) তাকে ছাড়াই ১৫ সদস্যর দল ঘোষণা করেছে
 
 											</p>
 										</div>
@@ -188,13 +186,13 @@
 											<div class="row">
 												<div class="col-lg-5 col-5">
 													<picture>
-														<img class="img-fluid img100" src="media/imgAll/bg/lead-list-1.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+														<img class="img-fluid img100" src="media/imgAll/bg/lead-news-10.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 													</picture>
 												</div>
 												<div class="col-lg-7 col-7">
 													<div class="desc">
 														<h2 class="list-title">
-															সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ
+														বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা 
 														</h2>
 													</div>
 												</div>
@@ -206,13 +204,13 @@
 											<div class="row">
 												<div class="col-lg-5 col-5">
 													<picture>
-														<img class="img-fluid img100" src="media/imgAll/bg/lead-list-1.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+														<img class="img-fluid img100" src="media/imgAll/bg/lead-news-16.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 													</picture>
 												</div>
 												<div class="col-lg-7 col-7">
 													<div class="desc">
 														<h2 class="list-title">
-															সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ
+														ঝুঁকিপূর্ণ ভবনসহ চতুর্মুখী সমস্যায় জর্জরিত ঢাবির কুয়েত মৈত্রী হল
 														</h2>
 													</div>
 												</div>
@@ -224,13 +222,13 @@
 											<div class="row">
 												<div class="col-lg-5 col-5">
 													<picture>
-														<img class="img-fluid img100" src="media/imgAll/bg/lead-list-1.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+														<img class="img-fluid img100" src="media/imgAll/bg/lead-news-13.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 													</picture>
 												</div>
 												<div class="col-lg-7 col-7">
 													<div class="desc">
 														<h2 class="list-title">
-															সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ
+														বুধবার (২৭ সেপ্টেম্বর) নৌপরিবহন মন্ত্রণালয়ের সিনিয়র তথ্য অফিসার 
 														</h2>
 													</div>
 												</div>
@@ -242,13 +240,13 @@
 											<div class="row">
 												<div class="col-lg-5 col-5">
 													<picture>
-														<img class="img-fluid img100" src="media/imgAll/bg/lead-list-1.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+														<img class="img-fluid img100" src="media/imgAll/bg/lead-news-14.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 													</picture>
 												</div>
 												<div class="col-lg-7 col-7">
 													<div class="desc">
 														<h2 class="list-title">
-															সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ
+														এতে নৌপরিবহন প্রতিমন্ত্রী খালিদ মাহমুদ চৌধুরী এমপি প্রধান অতিথি হিসেবে উপস্থিত থাকবেন
 														</h2>
 													</div>
 												</div>
@@ -266,56 +264,6 @@
 							<img src="media/imgAll/icon/video-stories.png">
 							<h2>ভিডিও স্টোরি</h2>
 						</div>
-						<!-- <div class=" Dvideo-news ">
-							<div class="leadVideoListItem ">
-								<a href="#">
-									<div class="leadImgZoomBlock">
-										<picture>
-											<img class="img-fluid" src="media/imgAll/bg/video-image-1.jpg" alt="" title="">
-										</picture>
-										<span class="videoIcon">
-											<i class="fab fa-youtube"></i>
-										</span>
-									</div>
-									<div class="lead-desc">
-										<h3 class="Title">সকালের খবর | ১৯ নভেম্বর ২০২১ | Channel 24
-										</h3>
-									</div>
-								</a>
-							</div>
-							<div class="leadVideoListItem ">
-								<a href="#">
-									<div class="leadImgZoomBlock">
-										<picture>
-											<img class="img-fluid" src="media/imgAll/bg/video-image-1.jpg" alt="" title="">
-										</picture>
-										<span class="videoIcon">
-											<i class="fab fa-youtube"></i>
-										</span>
-									</div>
-									<div class="lead-desc">
-										<h3 class="Title">সকালের খবর | ১৯ নভেম্বর ২০২১ | Channel 24
-										</h3>
-									</div>
-								</a>
-							</div>
-							<div class="leadVideoListItem ">
-								<a href="#">
-									<div class="leadImgZoomBlock">
-										<picture>
-											<img class="img-fluid" src="media/imgAll/bg/video-image-1.jpg" alt="" title="">
-										</picture>
-										<span class="videoIcon">
-											<i class="fab fa-youtube"></i>
-										</span>
-									</div>
-									<div class="lead-desc">
-										<h3 class="Title">সকালের খবর | ১৯ নভেম্বর ২০২১ | Channel 24
-										</h3>
-									</div>
-								</a>
-							</div>
-						</div> -->
 						<div class="Leadvideo-news">
 							<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
 								<div class="carousel-inner">
@@ -349,7 +297,7 @@
 													</span>
 												</div>
 												<div class="lead-desc">
-													<h3 class="Title">সকালের খবর | ১৯ নভেম্বর ২০২১ | Channel 24
+													<h3 class="Title">জনপদ খবর | ২২ নভেম্বর ২০২২
 													</h3>
 												</div>
 											</a>
@@ -367,7 +315,7 @@
 													</span>
 												</div>
 												<div class="lead-desc">
-													<h3 class="Title">সকালের খবর | ১৯ নভেম্বর ২০২১ | Channel 24
+													<h3 class="Title">জনপদ খবর | ২২ নভেম্বর ২০২২ | Channel 24
 													</h3>
 												</div>
 											</a>
@@ -387,13 +335,13 @@
 						<!-- advertisement -->
 						<div class="advertisement-img">
 							<picture>
-								<img class="img-fluid" src="media/imgAll/ads/jamuna-new.gif" alt="Advertisement" title="Advertisement">
+								<img class="img-fluid img100" src="media/imgAll/ads/jamuna-new.gif" alt="Advertisement" title="Advertisement">
 							</picture>
 						</div>
 						<!-- advertisement -->
 						<div class="advertisement-img">
 							<picture>
-								<img class="img-fluid" src="media/imgAll/ads/jamuna-new.gif" alt="Advertisement" title="Advertisement">
+								<img class="img-fluid img100" src="media/imgAll/ads/jamuna-new.gif" alt="Advertisement" title="Advertisement">
 							</picture>
 						</div>
 
@@ -412,12 +360,12 @@
 				</div>
 				<div class="DVideoList">
 					<div class="row">
-						<div class="col-lg-6 col-sm-12 rowresize" style="flex: 0 0 55%;max-width:55%;">
+						<div class="col-lg-6 col-sm-6 rowresize" >
 							<div class="DVideoTop">
 								<a href="/">
 									<div class="DImgZoomBlock">
 										<picture>
-											<img class="img-fluid" src="media/imgAll/bg/video-image.jpg" alt="" title="">
+											<img class="img-fluid img100" src="media/imgAll/bg/video-image.jpg" alt="" title="">
 										</picture>
 										<span class="video-Icon">
 											<i class="fab fa-youtube"></i>
@@ -429,76 +377,76 @@
 								</a>
 							</div>
 						</div>
-						<div class="col-lg-6 col-sm-12 rowresize" style="flex: 0 0 45%; max-width:45%;">
+						<div class="col-lg-6 col-12 rowresize">
 							<div class="DVideoList">
 								<div class="row">
-									<div class="col-lg-6">
+									<div class="col-lg-6 col-6">
 										<div class="DVideoListItem align-self-stretch">
 											<a href="/">
 												<div class="DImgZoomBlock">
 													<picture>
-														<img class="img-fluid" src="media/imgAll/bg/video-image.jpg" alt="" title="">
+														<img class="img-fluid img100" src="media/imgAll/bg/lead-news-4.jpg" alt="" title="">
 													</picture>
 													<span class="video-Icon">
 														<i class="fab fa-youtube"></i>
 													</span>
 												</div>
 												<div class="Desc">
-													<h4>সকালের খবর | ১৯ নভেম্বর ২০২১ | Channel 24
+													<h4>জনপদ খবর | ২২ নভেম্বর ২০২২ | Channel 24
 													</h4>
 												</div>
 											</a>
 										</div>
 									</div>
-									<div class="col-lg-6">
+									<div class="col-lg-6 col-6">
 										<div class="DVideoListItem align-self-stretch">
 											<a href="/">
 												<div class="DImgZoomBlock">
 													<picture>
-														<img class="img-fluid" src="media/imgAll/bg/video-image.jpg" alt="" title="">
+														<img class="img-fluid img100" src="media/imgAll/bg/lead-list-1.jpg" alt="" title="">
 													</picture>
 													<span class="video-Icon">
 														<i class="fab fa-youtube"></i>
 													</span>
 												</div>
 												<div class="Desc">
-													<h4>সকালের খবর | 18 November 2021 | Channel 24
+													<h4>সকালের খবর | 18 November 2021 | Jonopad News
 													</h4>
 												</div>
 											</a>
 										</div>
 									</div>
-									<div class="col-lg-6">
+									<div class="col-lg-6 col-6">
 										<div class="DVideoListItem align-self-stretch">
 											<a href="/">
 												<div class="DImgZoomBlock">
 													<picture>
-														<img class="img-fluid" src="media/imgAll/bg/video-image.jpg" alt="" title="">
+														<img class="img-fluid img100" src="media/imgAll/bg/lead-news-22.jpg" alt="" title="">
 													</picture>
 													<span class="video-Icon">
 														<i class="fab fa-youtube"></i>
 													</span>
 												</div>
 												<div class="Desc">
-													<h4>সকালের খবর | ১৭ নভেম্বর ২০২১ | Channel 24
+													<h4>জনপদ খবর | ২২ নভেম্বর ২০২২ | Jonopad News
 													</h4>
 												</div>
 											</a>
 										</div>
 									</div>
-									<div class="col-lg-6">
+									<div class="col-lg-6 col-6">
 										<div class="DVideoListItem align-self-stretch">
 											<a href="/">
 												<div class="DImgZoomBlock">
 													<picture>
-														<img class="img-fluid" src="media/imgAll/bg/video-image.jpg" alt="" title="">
+														<img class="img-fluid img100" src="media/imgAll/bg/D-main-news.jpg" alt="" title="">
 													</picture>
 													<span class="video-Icon">
 														<i class="fab fa-youtube"></i>
 													</span>
 												</div>
 												<div class="Desc">
-													<h4>সকালের খবর | 5 November 2021 | Channel 24
+													<h4>বিকালের খবর | ২২ নভেম্বর ২০২২ | Channel 24
 													</h4>
 												</div>
 											</a>
@@ -525,7 +473,7 @@
 
 						<div class="DNational">
 							<div class="row">
-								<div class="col-lg-8 col-sm-12 border-right-inner1 rowresize" style="flex:0 0 65%; max-width: 65%;">
+								<div class="col-lg-8 col-sm-8 border-right-inner1 rowresize" >
 									<div class="DNationalTop">
 										<a href="/">
 											<div class="DImgZoomBlock">
@@ -542,20 +490,20 @@
 										</a>
 									</div>
 								</div>
-								<div class="col-lg-4 col-sm-12 border-right-inner1 rowresize" style="flex:0 0 35%;max-width: 35%;">
+								<div class="col-lg-4 col-sm-12 border-right-inner1 rowresize" >
 									<div class="DNationalTop2">
 										<div class="DNationalList">
 											<a href="#">
 												<div class="DImgBlock">
 													<div class="DImgZoomBlock">
 														<picture>
-															<img src="media/imgAll/bg/saradesh-img-1.jpg" alt="" title="">
+															<img src="media/imgAll/bg/image_26686_1695790461.jpg" alt="" title="">
 														</picture>
 													</div>
 												</div>
 												<div class="DetailsBlock">
 													<div class="Desc">
-														<h3 class="Title">রাজধানীতে নজরদারি বাড়ানো হয়েছে : ডিএমপি </h3>
+														<h3 class="Title"> ডিএমপি রাজধানীতে নজরদারি বাড়ানো হয়েছে </h3>
 													</div>
 												</div>
 											</a>
@@ -565,13 +513,13 @@
 												<div class="DImgBlock">
 													<div class="DImgZoomBlock">
 														<picture>
-															<img src="media/imgAll/bg/saradesh-img-1.jpg" alt="" title="">
+															<img src="media/imgAll/bg/lead-news-13.jpg" alt="" title="">
 														</picture>
 													</div>
 												</div>
 												<div class="DetailsBlock">
 													<div class="Desc">
-														<h3 class="Title">রাজধানীর বংশালে নারীর রহস্যজনক মৃত্যু </h3>
+														<h3 class="Title">সরকারি কলেজে পাঠদান চলে জোড়াতালি দিয়ে </h3>
 													</div>
 												</div>
 											</a>
@@ -581,13 +529,13 @@
 												<div class="DImgBlock">
 													<div class="DImgZoomBlock">
 														<picture>
-															<img src="media/imgAll/bg/saradesh-img-1.jpg" alt="" title="">
+															<img src="media/imgAll/bg/national-lead.jpg" alt="" title="">
 														</picture>
 													</div>
 												</div>
 												<div class="DetailsBlock">
 													<div class="Desc">
-														<h3 class="Title">রাজধানীতে ইয়াবাসহ আটক ৫৯, মামলা ৫১ </h3>
+														<h3 class="Title">ঢাকা কলেজে শিক্ষার্থী রয়েছে প্রায় সাড়ে ৪৪ হাজার </h3>
 													</div>
 												</div>
 											</a>
@@ -597,14 +545,13 @@
 												<div class="DImgBlock">
 													<div class="DImgZoomBlock">
 														<picture>
-															<img src="media/imgAll/bg/saradesh-img-1.jpg" alt="" title="">
+															<img src="media/imgAll/bg/lead-news-13.jpg" alt="" title="">
 														</picture>
 													</div>
 												</div>
 												<div class="DetailsBlock">
 													<div class="Desc">
-														<h3 class="Title">শাহজালালে সাড়ে ৮ কোটি টাকা মূল্যের স্বর্ণ বার
-															জব্দ </h3>
+														<h3 class="Title"> দেশের প্রায় সব সরকারি কলেজেই শিক্ষক সংকট এখন চরমে </h3>
 													</div>
 												</div>
 											</a>
@@ -693,31 +640,28 @@
 								<a href="/">
 									<div class="DImgZoomBlock">
 										<picture>
-											<img class="img-fluid" src="media/imgAll/bg/video-image.jpg" alt="" title="">
+											<img class="img-fluid img100" src="media/imgAll/bg/lead-news-10.jpg" alt="" title="">
 										</picture>
 									</div>
 									<div class="Desc">
-										<h3>সকালের খবর | 18 November 2021 | Channel 24</h3>
+										<h3>সকালের খবর | Jonopad news</h3>
 									</div>
 								</a>
 							</div>
 							<div class="category-news-list">
 								<ul>
 									<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-											<p> প্রতিযোগতার তৃতীয় বিভাগে
-												তৃতীয় স্থান অধিকার করেছে ফয়সাল আহমেদ।</p>
+											<p>নানা নাটকীয়তার পর সাবেক ওয়ানডে অধিনায়ক</p>
 										</a></li>
 								</ul>
 								<ul>
 									<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-											<p> প্রতিযোগতার তৃতীয় বিভাগে
-												তৃতীয় স্থান অধিকার করেছে ফয়সাল আহমেদ।</p>
+											<p>টাইগার ওপেনারের আকস্মিক দল থেকে বাদ পড়ায় নানা প্রশ্নের সৃষ্টি হয়েছে</p>
 										</a></li>
 								</ul>
 								<ul>
 									<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-											<p> প্রতিযোগতার তৃতীয় বিভাগে
-												তৃতীয় স্থান অধিকার করেছে ফয়সাল আহমেদ।</p>
+											<p>তিন মাস পর অনুষ্ঠিত হতে যাচ্ছে দ্বাদশ জাতীয় সংসদ নির্বাচন</p>
 										</a></li>
 								</ul>
 							</div>
@@ -735,31 +679,28 @@
 								<a href="/">
 									<div class="DImgZoomBlock">
 										<picture>
-											<img class="img-fluid" src="media/imgAll/bg/video-image.jpg" alt="" title="">
+											<img class="img-fluid img100" src="media/imgAll/bg/lead-news-15.jpg" alt="" title="">
 										</picture>
 									</div>
 									<div class="Desc">
-										<h3>সকালের খবর | 18 November 2021 | Channel 24</h3>
+										<h3>সকালের খবর | Channel 24</h3>
 									</div>
 								</a>
 							</div>
 							<div class="category-news-list">
 								<ul>
 									<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-											<p> প্রতিযোগতার তৃতীয় বিভাগে
-												তৃতীয় স্থান অধিকার করেছে ফয়সাল আহমেদ।</p>
+											<p> আওয়ামী লীগের সিনিয়র নেতাদের ভাষ্য অনুযায়ী, ভোট নিয়ে বিরোধীদের অপপ্রচার, নাগরিকদের স্থান পরিবর্তন, ভোটের দিন গণপরিবহন না থাকা,</p>
 										</a></li>
 								</ul>
 								<ul>
 									<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-											<p> প্রতিযোগতার তৃতীয় বিভাগে
-												তৃতীয় স্থান অধিকার করেছে ফয়সাল আহমেদ।</p>
+											<p>কারণ, জাতীয় নির্বাচনে গাছাড়া ভাবের কোনো সুযোগ নেই</p>
 										</a></li>
 								</ul>
 								<ul>
 									<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-											<p> প্রতিযোগতার তৃতীয় বিভাগে
-												তৃতীয় স্থান অধিকার করেছে ফয়সাল আহমেদ।</p>
+											<p>বিরোধীপক্ষ সামান্যতম সুযোগও হাতছাড়া করবে না— এমন বোধোদয় আছে তাদের।</p>
 										</a></li>
 								</ul>
 							</div>
@@ -777,7 +718,7 @@
 								<a href="/">
 									<div class="DImgZoomBlock">
 										<picture>
-											<img class="img-fluid" src="media/imgAll/bg/video-image.jpg" alt="" title="">
+											<img class="img-fluid img100" src="media/imgAll/bg/lead-news-14.jpg" alt="" title="">
 										</picture>
 									</div>
 									<div class="Desc">
@@ -825,7 +766,7 @@
 									<div class="tab-content">
 										<div class="tab-pane active" id="sorbosesh-tab" role="tabpanel1">
 
-											<div class="DLatestNews longEnough scrollspy-example nav-pills " style="max-height: 403px; overflow: auto;" data-mcs-theme="dark" data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0">
+											<div class="DLatestNews longEnough scrollspy-example nav-pills " style="max-height: 407px; overflow: auto;" data-mcs-theme="dark" data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0">
 												<div class="DLatestNewsList">
 													<a href="#">
 														<span>১</span>
@@ -840,8 +781,8 @@
 														<span>২</span>
 														<h3 class="Title">
 
-															পীরগঞ্জে
-															হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তার
+														প্রতিযোগতার তৃতীয় বিভাগে
+												তৃতীয় স্থান অধিকার করেছে ফয়সাল আহমেদ।
 														</h3>
 													</a>
 												</div>
@@ -893,9 +834,8 @@
 													<a href="#">
 														<span>৮</span>
 														<h3 class="Title">
-
-															পীরগঞ্জে
-															হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তার</h3>
+														প্রতিযোগতার তৃতীয় বিভাগে
+												তৃতীয় স্থান অধিকার করেছে ফয়সাল আহমেদ</h3>
 													</a>
 												</div>
 
@@ -903,7 +843,7 @@
 										</div>
 										<div class="tab-pane" id="sorbadhik-tab" role="tabpanel2">
 
-											<div class="DLatestNews longEnough scrollspy-example nav-pills " style="max-height: 403px; overflow: auto;" data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0" data-mcs-theme="dark">
+											<div class="DLatestNews longEnough scrollspy-example nav-pills " style="max-height: 407px; overflow: auto;" data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0" data-mcs-theme="dark">
 												<div class="DLatestNewsList">
 													<a href="#">
 														<span>১</span>
@@ -1037,13 +977,15 @@
 							<div class="main-news-list">
 								<a href="#">
 									<picture>
-										<img class="img-fluid img100" src="media/imgAll/bg/list-img-1.webp" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+										<img class="img-fluid img100" src="media/imgAll/bg/lead-news-10.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
 									</picture>
 									<div class="desc">
 										<h2 class="lead-news-list-title">
-											সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
+										এবার ভিন্ন হবে আলমগীর স্বপন
 										</h2>
-										<p class="quote">আলমগীর স্বপন: দ্বাদশ জাতীয় সংসদ নির্বাচন ঘিরে দুই শীর্ষ
+										<p class="quote">এবার ভিন্ন হবে আলমগীর স্বপন: দ্বাদশ জাতীয় সংসদ নির্বাচন ঘিরে দুই শীর্ষ
+											রাজনৈতিক দলের কৌশল এবার ভিন্ন হবে আলমগীর স্বপন: দ্বাদশ জাতীয় সংসদ নির্বাচন ঘিরে দুই শীর্ষ
+											রাজনৈতিক দলের কৌশল এবার ভিন্ন হবে আলমগীর স্বপন: দ্বাদশ জাতীয় সংসদ নির্বাচন ঘিরে দুই শীর্ষ
 											রাজনৈতিক দলের কৌশল এবার ভিন্ন হবে </p>
 
 									</div>
@@ -1061,10 +1003,6 @@
 									</picture>
 									<div class="Desc">
 										<h1 class="Title">জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর</h1>
-										<p class="quote">আলমগীর স্বপন: দ্বাদশ জাতীয় সংসদ নির্বাচন ঘিরে দুই শীর্ষ
-											রাজনৈতিক দলের কৌশল
-											এবার ভিন্ন হবে বলে মনে করেন প্রবীণ বামপন্থী রাজনীতিবিদ মুজাহিদুল ইসলাম
-											সেলিম। তার মতে, ক্ষমতাসীন আওয়ামী লীগ ’১৪</p>
 									</div>
 								</a>
 							</div>
@@ -1081,8 +1019,7 @@
 										<h2 class="lead-news-list-title">
 											সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
 										</h2>
-										<p class="quote">আলমগীর স্বপন: দ্বাদশ জাতীয় সংসদ নির্বাচন ঘিরে দুই শীর্ষ
-											রাজনৈতিক দলের কৌশল এবার ভিন্ন হবে </p>
+										<p class="quote">লিগ্যাল নোটিশে বলা হয়েছে, হেড কোচ চন্ডিকা হাথুরুসিংহ অযোগ্য কোচ, যে কি না নিজের দেশ থেকে বিতাড়িত হয়েছে। যার ওডিআই ক্যারিয়ারে খেলার ম্যাচ সংখ্যা ছিল ৩৫টি এবং গড় ছিল মাত্র ২০ দশমিক ৯০। আমাদের দেশের কোচ হওয়ার পূর্বে কোনো দেশের পূর্ণাঙ্গ কোচও ছিল না</p>
 
 									</div>
 
@@ -1094,11 +1031,41 @@
 				<!-- main-news-list -->
 				<div class="lead-news-list-area">
 					<div class="row">
-						<div class="col-lg-3">
+						<div class="col-lg-3 col-6">
 							<div class="main-news-list">
 								<a href="#">
 									<picture>
-										<img class="img-fluid img100" src="media/imgAll/bg/list-img-1.webp" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+										<img class="img-fluid img100" src="media/imgAll/bg/lead-news-13.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+									</picture>
+									<div class="desc">
+										<h2 class="lead-news-list-title">
+										পাঠান সুপ্রিম কোর্টের আইনজীবী রাসেল আল মামুন
+										</h2>
+									</div>
+
+								</a>
+							</div>
+						</div>
+						<div class="col-lg-3 col-6">
+							<div class="main-news-list">
+								<a href="#">
+									<picture>
+										<img class="img-fluid img100" src="media/imgAll/bg/lead-news-6.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+									</picture>
+									<div class="desc">
+										<h2 class="lead-news-list-title">
+										লিগ্যাল নোটিশে বলা হয়েছে, হেড কোচ চন্ডিকা হাথুরুসিংহ 
+										</h2>
+									</div>
+
+								</a>
+							</div>
+						</div>
+						<div class="col-lg-3 col-6">
+							<div class="main-news-list">
+								<a href="#">
+									<picture>
+										<img class="img-fluid img100" src="media/imgAll/bg/lead-news-20.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
 									</picture>
 									<div class="desc">
 										<h2 class="lead-news-list-title">
@@ -1109,45 +1076,15 @@
 								</a>
 							</div>
 						</div>
-						<div class="col-lg-3">
+						<div class="col-lg-3 col-6">
 							<div class="main-news-list">
 								<a href="#">
 									<picture>
-										<img class="img-fluid img100" src="media/imgAll/bg/list-img-1.webp" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+										<img class="img-fluid img100" src="media/imgAll/bg/national-lead.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
 									</picture>
 									<div class="desc">
 										<h2 class="lead-news-list-title">
-											সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
-										</h2>
-									</div>
-
-								</a>
-							</div>
-						</div>
-						<div class="col-lg-3">
-							<div class="main-news-list">
-								<a href="#">
-									<picture>
-										<img class="img-fluid img100" src="media/imgAll/bg/list-img-1.webp" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
-									</picture>
-									<div class="desc">
-										<h2 class="lead-news-list-title">
-											সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
-										</h2>
-									</div>
-
-								</a>
-							</div>
-						</div>
-						<div class="col-lg-3">
-							<div class="main-news-list">
-								<a href="#">
-									<picture>
-										<img class="img-fluid img100" src="media/imgAll/bg/list-img-1.webp" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
-									</picture>
-									<div class="desc">
-										<h2 class="lead-news-list-title">
-											সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
+											 শেষ সপ্তাহে উদ্বোধন
 										</h2>
 									</div>
 
@@ -1179,17 +1116,13 @@
 											<div class="sport-lead-news-list">
 												<a href="#">
 													<picture>
-														<img class="img-fluid img100" src="media/imgAll/bg/list-img-1.webp" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
+														<img class="img-fluid img100" src="media/imgAll/bg/lead-news-1.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
 													</picture>
 													<div class="desc">
 														<h2 class="lead-news-list-title">
-															সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
+														তার জায়গা হলো না বাংলাদেশের বিশ্বকাপ দলে
 														</h2>
-														<p class="quote">আলমগীর স্বপন: দ্বাদশ জাতীয় সংসদ নির্বাচন ঘিরে দুই শীর্ষ
-															রাজনৈতিক দলের কৌশল এবার ভিন্ন হবে | আলমগীর স্বপন: দ্বাদশ জাতীয় সংসদ নির্বাচন ঘিরে দুই শীর্ষ
-															রাজনৈতিক দলের কৌশল এবার ভিন্ন হবে আলমগীর স্বপন: দ্বাদশ জাতীয় সংসদ নির্বাচন ঘিরে দুই শীর্ষ
-															রাজনৈতিক দলের কৌশল এবার ভিন্ন হবে | আলমগীর স্বপন: দ্বাদশ জাতীয় সংসদ নির্বাচন ঘিরে দুই শীর্ষ
-															রাজনৈতিক দলের কৌশল এবার ভিন্ন হবে</p>
+														<p class="quote">নতুন প্লেয়ার তথা তানজিম তামিমকে এই বড় মঞ্চে ওঠানো ঠিক হবে না বরং অভিজ্ঞ তামিম ইকবালে ঠিক। একমাত্র ক্রিকেটার হিসেবে তামিমের টেস্ট, ওয়ানডে ও টি-টোয়েন্টি সেঞ্চুরি আছে। তামিম ইকবাল বাংলাদেশের ওয়ানডে ফরম্যাটে সবচেয়ে বেশি ১৪টি সেঞ্চুরির মালিক</p>
 
 													</div>
 													<div class="lead-news-list">
@@ -1198,14 +1131,14 @@
 																<div class="col-lg-7 col-7">
 																	<div class="desc">
 																		<h2 class="list-title">
-																			সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ
+																		দুই জায়গাতেই সমান সাতটি করে সেঞ্চুরি আছে তামিমের
 																		</h2>
-																		<p>১ ঘণ্টা আগে</p>
+																		
 																	</div>
 																</div>
 																<div class="col-lg-5 col-5">
 																	<picture>
-																		<img class="img-fluid img100" src="media/imgAll/bg/lead-list-1.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+																		<img class="img-fluid img100" src="media/imgAll/bg/lead-news-18.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 																	</picture>
 																</div>
 															</div>
@@ -1224,14 +1157,14 @@
 														<div class="col-lg-7 col-7">
 															<div class="desc">
 																<h2 class="list-title">
-																	সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ
+																নামবে আওয়ামী সংগঠন মেরামত করে ভোটের মাঠে
 																</h2>
-																<p>১ ঘণ্টা আগে</p>
+																
 															</div>
 														</div>
 														<div class="col-lg-5 col-5">
 															<picture>
-																<img class="img-fluid img100" src="media/imgAll/bg/lead-list-1.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+																<img class="img-fluid img100" src="media/imgAll/bg/lead-news-2.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 															</picture>
 														</div>
 													</div>
@@ -1243,14 +1176,14 @@
 														<div class="col-lg-7 col-7">
 															<div class="desc">
 																<h2 class="list-title">
-																	সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ
+																	ভোটের মাঠে নামবে আওয়ামী লীগ
 																</h2>
-																<p>১ ঘণ্টা আগে</p>
+																
 															</div>
 														</div>
 														<div class="col-lg-5 col-5">
 															<picture>
-																<img class="img-fluid img100" src="media/imgAll/bg/lead-list-1.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+																<img class="img-fluid img100" src="media/imgAll/bg/image_26694_1695795330.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 															</picture>
 														</div>
 													</div>
@@ -1262,14 +1195,14 @@
 														<div class="col-lg-7 col-7">
 															<div class="desc">
 																<h2 class="list-title">
-																	সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ
+																বাংলাদেশের প্রতিটি গ্রাম নিঃসন্দেহে বৈচিত্র্যময়
 																</h2>
-																<p>১ ঘণ্টা আগে</p>
+																
 															</div>
 														</div>
 														<div class="col-lg-5 col-5">
 															<picture>
-																<img class="img-fluid img100" src="media/imgAll/bg/lead-list-1.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+																<img class="img-fluid img100" src="media/imgAll/bg/lead-news-24.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 															</picture>
 														</div>
 													</div>
@@ -1281,14 +1214,14 @@
 														<div class="col-lg-7 col-7">
 															<div class="desc">
 																<h2 class="list-title">
-																	সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ
+																ঠাকুরগাঁওয়ের রাণীশংকৈলে ২ শিশু সন্তানসহ মায়ের লাশ উদ্ধার করা হয়েছে
 																</h2>
-																<p>১ ঘণ্টা আগে</p>
+																
 															</div>
 														</div>
 														<div class="col-lg-5 col-5">
 															<picture>
-																<img class="img-fluid img100" src="media/imgAll/bg/lead-list-1.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+																<img class="img-fluid img100" src="media/imgAll/bg/D-main-news.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 															</picture>
 														</div>
 													</div>
@@ -1300,9 +1233,9 @@
 														<div class="col-lg-7 col-7">
 															<div class="desc">
 																<h2 class="list-title">
-																	সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ
+																আওয়ামী লীগ মেরামত করে ভোটের মাঠে নামবে
 																</h2>
-																<p>১ ঘণ্টা আগে</p>
+																
 															</div>
 														</div>
 														<div class="col-lg-5 col-5">
@@ -1342,34 +1275,34 @@
 										<div class="category-news-list">
 											<ul>
 												<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-														<p> প্রতিযোগতার তৃতীয় বিভাগে
+														<p>  তৃতীয় বিভাগে
 															তৃতীয় স্থান অধিকার করেছে ফয়সাল আহমেদ।</p>
 													</a></li>
 											</ul>
 											<ul>
 												<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-														<p> প্রতিযোগতার তৃতীয় বিভাগে
+														<p> প্রতিযোগতার  বিভাগে
 															তৃতীয় স্থান অধিকার করেছে ফয়সাল আহমেদ।</p>
 													</a></li>
 											</ul>
 											<ul>
 												<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-														<p> প্রতিযোগতার তৃতীয় বিভাগে
-															তৃতীয় স্থান অধিকার করেছে ফয়সাল আহমেদ।</p>
+														<p> ফয়সাল আহমেদ প্রতিযোগতার তৃতীয় বিভাগে
+															তৃতীয় স্থান অধিকার করেছে </p>
 													</a></li>
 											</ul>
-											<ul>
+											<!-- <ul>
 												<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-														<p> প্রতিযোগতার তৃতীয় বিভাগে
-															তৃতীয় স্থান অধিকার করেছে ফয়সাল আহমেদ।</p>
+														<p> অধিকার  প্রতিযোগতার তৃতীয় বিভাগে
+															তৃতীয় স্থান করেছে ফয়সাল আহমেদ।</p>
 													</a></li>
-											</ul>
-											<ul>
+											</ul> -->
+											<!-- <ul>
 												<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-														<p> প্রতিযোগতার তৃতীয় বিভাগে
+														<p>তৃতীয় বিভাগে  প্রতিযোগতার 
 															তৃতীয় স্থান অধিকার করেছে ফয়সাল আহমেদ।</p>
 													</a></li>
-											</ul>
+											</ul> -->
 										</div>
 
 									</div>
@@ -1385,21 +1318,16 @@
 							<!-- advertisement -->
 							<div class="sport-advertisement-img">
 								<picture>
-									<img class="img-fluid" src="media/imgAll/ads/jamuna-new.gif" alt="Advertisement" title="Advertisement">
+									<img class="img-fluid img100" src="media/imgAll/ads/jamuna-new.gif" alt="Advertisement" title="Advertisement">
 								</picture>
 							</div>
 							<!-- advertisement -->
 							<div class="sport-advertisement-img">
 								<picture>
-									<img class="img-fluid" src="media/imgAll/ads/jamuna-new.gif" alt="Advertisement" title="Advertisement">
+									<img class="img-fluid img100" src="media/imgAll/ads/jamuna-new.gif" alt="Advertisement" title="Advertisement">
 								</picture>
 							</div>
 
-							<!-- advertisement -->
-
-							<div class="sport-advertisement-img">
-								<img class="img-fluid img100" src="media/imgAll/ads/sub-lead2.jpg" alt="Advertisement" title="Advertisement">
-							</div>
 
 
 
@@ -1420,15 +1348,15 @@
 						</div>
 						<div class="photo-gallery-list-news">
 							<div class="row">
-								<div class="col-lg-5 col-5">
+								<div class="col-lg-4 col-4">
 									<picture>
-										<img class="img-fluid img100" src="media/imgAll/bg/lead-list-1.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+										<img class="img-fluid img100" src="media/imgAll/bg/lead-news-10.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 									</picture>
 								</div>
-								<div class="col-lg-7 col-7">
+								<div class="col-lg-8 col-8">
 									<div class="desc">
 										<h2 class="list-title">
-											সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ
+											ভোটের মাঠে নামবে আওয়ামী লীগ
 										</h2>
 									</div>
 								</div>
@@ -1439,15 +1367,15 @@
 						</div>
 						<div class="photo-gallery-list-news">
 							<div class="row">
-								<div class="col-lg-5 col-5">
+								<div class="col-lg-4 col-4">
 									<picture>
-										<img class="img-fluid img100" src="media/imgAll/bg/lead-list-1.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+										<img class="img-fluid img100" src="media/imgAll/bg/lead-news-image.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 									</picture>
 								</div>
-								<div class="col-lg-7 col-7">
+								<div class="col-lg-8 col-8">
 									<div class="desc">
 										<h2 class="list-title">
-											সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ
+											সংগঠন মেরামত করে কাশিপুর ইউনিয়ন চেয়ারম্যান আতিকুর রহমান বকুল বিষয়টি নিশ্চিত করেছেন
 										</h2>
 									</div>
 								</div>
@@ -1458,15 +1386,15 @@
 						</div>
 						<div class="photo-gallery-list-news">
 							<div class="row">
-								<div class="col-lg-5 col-5">
+								<div class="col-lg-4 col-4">
 									<picture>
-										<img class="img-fluid img100" src="media/imgAll/bg/lead-list-1.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
+										<img class="img-fluid img100" src="media/imgAll/bg/lead-news-20.jpg" alt="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ" title="সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ">
 									</picture>
 								</div>
-								<div class="col-lg-7 col-7">
+								<div class="col-lg-8 col-8">
 									<div class="desc">
 										<h2 class="list-title">
-											সংগঠন মেরামত করে ভোটের মাঠে নামবে আওয়ামী লীগ
+										সরেজমিনে গিয়ে পারিবারিক ও স্থানীয়দের সূত্রে জানা গেছে
 										</h2>
 									</div>
 								</div>
@@ -1475,6 +1403,7 @@
 
 
 						</div>
+					
 					</div>
 					<div class="col-lg-6">
 						<div class="section-heading">
@@ -1483,12 +1412,13 @@
 							</a>
 						</div>
 						<div class="row">
-							<div class="col-lg-9">
-								<div class="entertainment-lead-area">
+							<div class="col-lg-8">
+						
+							<div class="photo-gallery-lead-news">
 									<div class="thumbnail">
 										<a href="/">
 											<picture>
-												<img class="img-fluid img100" src="media/imgAll/bg/entertainment.jpg" alt="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর" title="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর">
+												<img class="img-fluid img100" src="media/imgAll/bg/image-26691-1695796120.jpg" alt="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর" title="জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর">
 											</picture>
 											<div class="Desc">
 												<h1 class="Title">জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর</h1>
@@ -1497,8 +1427,9 @@
 										</a>
 									</div>
 								</div>
+						
 							</div>
-							<div class="col-lg-3">
+							<div class="col-lg-4">
 								<div class="photo-list-area">
 									<div class="DVideoListItem align-self-stretch">
 										<a href="/">
@@ -1520,12 +1451,12 @@
 										<a href="/">
 											<div class="DImgZoomBlock">
 												<picture>
-													<img class="img-fluid" src="media/imgAll/bg/video-image.jpg" alt="" title="">
+													<img class="img-fluid" src="media/imgAll/bg/entertainment.jpg" alt="" title="">
 												</picture>
 
 											</div>
 											<div class="Desc">
-												<h4>সকালের খবর
+												<h4>বিকালের খবর
 												</h4>
 											</div>
 										</a>
@@ -1540,15 +1471,22 @@
 							<!-- advertisement -->
 							<div class="sport-advertisement-img">
 								<picture>
-									<img class="img-fluid" src="media/imgAll/ads/jamuna-new.gif" alt="Advertisement" title="Advertisement">
+									<img class="img-fluid img100" src="media/imgAll/ads/jamuna-new.gif" alt="Advertisement" title="Advertisement">
 								</picture>
 							</div>
+								<!-- advertisement -->
+							
+								<picture>
+									<img class="img-fluid img100" src="media/imgAll/ads/lead-ads.gif" alt="Advertisement" title="Advertisement">
+								</picture>
+							
+							
 						</div>
 
 					</div>
 
 				</div>
-				<div class="col-lg-3"></div>
+				
 			</div>
 			</div>
 		</section>
