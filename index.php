@@ -68,7 +68,7 @@
 									<div class="col-lg-5">
 										<div class="Desc">
 											<h1 class="Title">জনকল্যাণে এমপিদের জীবন উৎসর্গ করার আহ্বান প্রধানমন্ত্রীর</h1>
-											<p class="quote">আলমগীর স্বপন:  দ্বাদশ জাতীয় সংসদ নির্বাচন ঘিরে দুই শীর্ষ
+											<p class="quote">আলমগীর স্বপন: দ্বাদশ জাতীয় সংসদ নির্বাচন ঘিরে দুই শীর্ষ
 												রাজনৈতিক দলের কৌশল এবার ভিন্ন হবেদ্বাদশ জাতীয় সংসদ নির্বাচন ঘিরে দুই শীর্ষ
 												রাজনৈতিক দলের কৌশল এবার ভিন্ন হবেদ্বাদশ জাতীয় সংসদ নির্বাচন ঘিরে দুই শীর্ষ
 												রাজনৈতিক দলের কৌশল এবার ভিন্ন হবে </p>
@@ -76,12 +76,11 @@
 									</div>
 								</div>
 							</a>
-
 						</div>
 						<!-- main-news-list -->
 						<div class="lead-news-list-area">
 							<div class="row">
-								<div class="col-lg-3">
+								<div class="col-lg-3 col-6">
 									<div class="main-news-list">
 										<a href="#">
 											<picture>
@@ -92,11 +91,10 @@
 													সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
 												</h2>
 											</div>
-
 										</a>
 									</div>
 								</div>
-								<div class="col-lg-3">
+								<div class="col-lg-3 col-6">
 									<div class="main-news-list">
 										<a href="#">
 											<picture>
@@ -104,14 +102,14 @@
 											</picture>
 											<div class="desc">
 												<h2 class="lead-news-list-title">
-													 শুরুতে ট্রায়াল রান সেপ্টেম্বরের শুরুতে ট্রায়াল রান
+													শুরুতে ট্রায়াল রান সেপ্টেম্বরের শুরুতে ট্রায়াল রান
 												</h2>
 											</div>
 
 										</a>
 									</div>
 								</div>
-								<div class="col-lg-3">
+								<div class="col-lg-3 col-6">
 									<div class="main-news-list">
 										<a href="#">
 											<picture>
@@ -119,14 +117,14 @@
 											</picture>
 											<div class="desc">
 												<h2 class="lead-news-list-title">
-												গত কয়েক দিনে কী ঘটেছে, মুখ খুলছেন তামিম
+													গত কয়েক দিনে কী ঘটেছে, মুখ খুলছেন তামিম
 												</h2>
 											</div>
 
 										</a>
 									</div>
 								</div>
-								<div class="col-lg-3">
+								<div class="col-lg-3 col-6">
 									<div class="main-news-list">
 										<a href="#">
 											<picture>
@@ -134,7 +132,7 @@
 											</picture>
 											<div class="desc">
 												<h2 class="lead-news-list-title">
-												বিশ্বকাপ খেলতে বিকেলে দেশ ছাড়ছে বাংলাদেশ দল
+													বিশ্বকাপ খেলতে বিকেলে দেশ ছাড়ছে বাংলাদেশ দল
 												</h2>
 											</div>
 
@@ -161,23 +159,18 @@
 											<picture>
 												<img class="img-fluid img100" src="media/imgAll/bg/national-lead.jpg" alt="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন" title="সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন">
 											</picture>
-
-
 										</div>
 										<div class="desc">
 											<a href="#">
-											<h2 class="national-title">
-											ইরাকে বিয়ের অনুষ্ঠানে ভয়াবহ অগ্নিকাণ্ড, নিহত ১১৩
-											</h2>
+												<h2 class="national-title">
+													ইরাকে বিয়ের অনুষ্ঠানে ভয়াবহ অগ্নিকাণ্ড, নিহত ১১৩
+												</h2>
 											</a>
 											<p class="national-text">নিখোঁজের ১৮ ঘণ্টা পর মা ও দুই ছেলের মরদেহ উদ্ধার |
-											ইরাকে বিয়ের অনুষ্ঠানে ভয়াবহ অগ্নিকাণ্ড, নিহত ১১৩.বৃহস্পতিবার থেকে ৩ দিনের ছুটিতে দেশ
-											বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা ওপেনার তামিম ইকবাল। মঙ্গলবার (২৬ সেপ্টেম্বর) তাকে ছাড়াই ১৫ সদস্যর দল ঘোষণা করেছে
-
+												ইরাকে বিয়ের অনুষ্ঠানে ভয়াবহ অগ্নিকাণ্ড, নিহত ১১৩.বৃহস্পতিবার থেকে ৩ দিনের ছুটিতে দেশ
+												বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা ওপেনার তামিম ইকবাল। মঙ্গলবার (২৬ সেপ্টেম্বর) তাকে ছাড়াই ১৫ সদস্যর দল ঘোষণা করেছে
 											</p>
 										</div>
-
-
 									</div>
 								</div>
 								<div class="col-lg-6">
@@ -192,7 +185,7 @@
 												<div class="col-lg-7 col-7">
 													<div class="desc">
 														<h2 class="list-title">
-														বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা 
+															বাংলাদেশের ওয়ানডে বিশ্বকাপ স্কোয়াড থেকে বাদ পড়েছেন দেশসেরা
 														</h2>
 													</div>
 												</div>
@@ -210,7 +203,7 @@
 												<div class="col-lg-7 col-7">
 													<div class="desc">
 														<h2 class="list-title">
-														ঝুঁকিপূর্ণ ভবনসহ চতুর্মুখী সমস্যায় জর্জরিত ঢাবির কুয়েত মৈত্রী হল
+															ঝুঁকিপূর্ণ ভবনসহ চতুর্মুখী সমস্যায় জর্জরিত ঢাবির কুয়েত মৈত্রী হল
 														</h2>
 													</div>
 												</div>
@@ -228,7 +221,7 @@
 												<div class="col-lg-7 col-7">
 													<div class="desc">
 														<h2 class="list-title">
-														বুধবার (২৭ সেপ্টেম্বর) নৌপরিবহন মন্ত্রণালয়ের সিনিয়র তথ্য অফিসার 
+															বুধবার (২৭ সেপ্টেম্বর) নৌপরিবহন মন্ত্রণালয়ের সিনিয়র তথ্য অফিসার
 														</h2>
 													</div>
 												</div>
@@ -246,7 +239,7 @@
 												<div class="col-lg-7 col-7">
 													<div class="desc">
 														<h2 class="list-title">
-														এতে নৌপরিবহন প্রতিমন্ত্রী খালিদ মাহমুদ চৌধুরী এমপি প্রধান অতিথি হিসেবে উপস্থিত থাকবেন
+															এতে নৌপরিবহন প্রতিমন্ত্রী খালিদ মাহমুদ চৌধুরী এমপি প্রধান অতিথি হিসেবে উপস্থিত থাকবেন
 														</h2>
 													</div>
 												</div>
@@ -255,9 +248,7 @@
 									</div>
 								</div>
 							</div>
-
 						</section>
-
 					</div>
 					<div class="col-lg-3">
 						<div class="lead-list-video">
@@ -344,8 +335,6 @@
 								<img class="img-fluid img100" src="media/imgAll/ads/jamuna-new.gif" alt="Advertisement" title="Advertisement">
 							</picture>
 						</div>
-
-
 					</div>
 				</div>
 			</div>
@@ -360,7 +349,7 @@
 				</div>
 				<div class="DVideoList">
 					<div class="row">
-						<div class="col-lg-6 col-sm-6 rowresize" >
+						<div class="col-lg-6 col-sm-6 rowresize">
 							<div class="DVideoTop">
 								<a href="/">
 									<div class="DImgZoomBlock">
@@ -459,7 +448,6 @@
 				</div>
 			</div>
 		</section>
-
 		<!-- sara-desh-page -->
 		<section class="sara-desh-section">
 			<div class="container">
@@ -470,10 +458,9 @@
 								<h3 class="Title">সারা দেশ</h3>
 							</a>
 						</div>
-
 						<div class="DNational">
 							<div class="row">
-								<div class="col-lg-8 col-sm-8 border-right-inner1 rowresize" >
+								<div class="col-lg-8 col-sm-8 border-right-inner1 rowresize">
 									<div class="DNationalTop">
 										<a href="/">
 											<div class="DImgZoomBlock">
@@ -490,7 +477,7 @@
 										</a>
 									</div>
 								</div>
-								<div class="col-lg-4 col-sm-12 border-right-inner1 rowresize" >
+								<div class="col-lg-4 col-sm-12 border-right-inner1 rowresize">
 									<div class="DNationalTop2">
 										<div class="DNationalList">
 											<a href="#">
@@ -556,11 +543,26 @@
 												</div>
 											</a>
 										</div>
+										<div class="DNationalList">
+											<a href="#">
+												<div class="DImgBlock">
+													<div class="DImgZoomBlock">
+														<picture>
+															<img src="media/imgAll/bg/lead-news-13.jpg" alt="" title="">
+														</picture>
+													</div>
+												</div>
+												<div class="DetailsBlock">
+													<div class="Desc">
+														<h3 class="Title">সরকারি কলেজে পাঠদান চলে জোড়াতালি দিয়ে </h3>
+													</div>
+												</div>
+											</a>
+										</div>
 									</div>
 								</div>
 							</div>
 						</div>
-
 					</div>
 					<div class="col-lg-3">
 						<div class="SPSecTitle3">
@@ -610,20 +612,10 @@
 							<img class="img-fluid img100" src="media/imgAll/ads/sub-lead2.jpg" alt="Advertisement" title="Advertisement">
 
 						</div>
-
-
-
-
-
-
-
-
 					</div>
 				</div>
-
 			</div>
 		</section>
-
 		<!-- international-projukti-business-page -->
 		<section class="international-projukti-business-section">
 			<div class="container">
@@ -634,7 +626,6 @@
 								<h3 class="Title">আন্তর্জাতিক</h3>
 							</a>
 						</div>
-
 						<div class="catagory-page">
 							<div class="international-img">
 								<a href="/">
@@ -665,7 +656,6 @@
 										</a></li>
 								</ul>
 							</div>
-
 						</div>
 					</div>
 					<div class="col-lg-3">
@@ -704,7 +694,6 @@
 										</a></li>
 								</ul>
 							</div>
-
 						</div>
 					</div>
 					<div class="col-lg-3">
@@ -746,7 +735,6 @@
 										</a></li>
 								</ul>
 							</div>
-
 						</div>
 					</div>
 					<div class="col-lg-3">
@@ -766,7 +754,7 @@
 									<div class="tab-content">
 										<div class="tab-pane active" id="sorbosesh-tab" role="tabpanel1">
 
-											<div class="DLatestNews longEnough scrollspy-example nav-pills " style="max-height: 407px; overflow: auto;" data-mcs-theme="dark" data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0">
+											<div class="DLatestNews longEnough scrollspy-example nav-pills " style="max-height: 398px; overflow: auto;" data-mcs-theme="dark" data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0">
 												<div class="DLatestNewsList">
 													<a href="#">
 														<span>১</span>
@@ -781,8 +769,8 @@
 														<span>২</span>
 														<h3 class="Title">
 
-														প্রতিযোগতার তৃতীয় বিভাগে
-												তৃতীয় স্থান অধিকার করেছে ফয়সাল আহমেদ।
+															প্রতিযোগতার তৃতীয় বিভাগে
+															তৃতীয় স্থান অধিকার করেছে ফয়সাল আহমেদ।
 														</h3>
 													</a>
 												</div>
@@ -834,16 +822,15 @@
 													<a href="#">
 														<span>৮</span>
 														<h3 class="Title">
-														প্রতিযোগতার তৃতীয় বিভাগে
-												তৃতীয় স্থান অধিকার করেছে ফয়সাল আহমেদ</h3>
+															প্রতিযোগতার তৃতীয় বিভাগে
+															তৃতীয় স্থান অধিকার করেছে ফয়সাল আহমেদ</h3>
 													</a>
 												</div>
-
 											</div>
 										</div>
 										<div class="tab-pane" id="sorbadhik-tab" role="tabpanel2">
 
-											<div class="DLatestNews longEnough scrollspy-example nav-pills " style="max-height: 407px; overflow: auto;" data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0" data-mcs-theme="dark">
+											<div class="DLatestNews longEnough scrollspy-example nav-pills " style="max-height: 398px; overflow: auto;" data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0" data-mcs-theme="dark">
 												<div class="DLatestNewsList">
 													<a href="#">
 														<span>১</span>
@@ -853,7 +840,6 @@
 															হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তার</h3>
 													</a>
 												</div>
-
 												<div class="DLatestNewsList">
 													<a href="#">
 														<span>২</span>
@@ -944,7 +930,6 @@
 															হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তার</h3>
 													</a>
 												</div>
-
 											</div>
 										</div>
 									</div>
@@ -955,7 +940,6 @@
 							</div>
 						</div>
 					</div>
-
 				</div>
 			</div>
 		</section>
@@ -972,7 +956,7 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-lg-3">
+					<div class="col-lg-3 col-6 order-lg-1 order-2">
 						<div class="entertainment-area">
 							<div class="main-news-list">
 								<a href="#">
@@ -981,20 +965,18 @@
 									</picture>
 									<div class="desc">
 										<h2 class="lead-news-list-title">
-										এবার ভিন্ন হবে আলমগীর স্বপন
+											এবার ভিন্ন হবে আলমগীর স্বপন
 										</h2>
 										<p class="quote">এবার ভিন্ন হবে আলমগীর স্বপন: দ্বাদশ জাতীয় সংসদ নির্বাচন ঘিরে দুই শীর্ষ
 											রাজনৈতিক দলের কৌশল এবার ভিন্ন হবে আলমগীর স্বপন: দ্বাদশ জাতীয় সংসদ নির্বাচন ঘিরে দুই শীর্ষ
 											রাজনৈতিক দলের কৌশল এবার ভিন্ন হবে আলমগীর স্বপন: দ্বাদশ জাতীয় সংসদ নির্বাচন ঘিরে দুই শীর্ষ
 											রাজনৈতিক দলের কৌশল এবার ভিন্ন হবে </p>
-
 									</div>
-
 								</a>
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-6">
+					<div class="col-lg-6  order-lg-2 order-1">
 						<div class="entertainment-lead-area">
 							<div class="thumbnail">
 								<a href="/">
@@ -1008,7 +990,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-3">
+					<div class="col-lg-3 col-6 order-lg-3 order-2">
 						<div class="entertainment-area">
 							<div class="main-news-list">
 								<a href="#">
@@ -1020,9 +1002,7 @@
 											সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
 										</h2>
 										<p class="quote">লিগ্যাল নোটিশে বলা হয়েছে, হেড কোচ চন্ডিকা হাথুরুসিংহ অযোগ্য কোচ, যে কি না নিজের দেশ থেকে বিতাড়িত হয়েছে। যার ওডিআই ক্যারিয়ারে খেলার ম্যাচ সংখ্যা ছিল ৩৫টি এবং গড় ছিল মাত্র ২০ দশমিক ৯০। আমাদের দেশের কোচ হওয়ার পূর্বে কোনো দেশের পূর্ণাঙ্গ কোচও ছিল না</p>
-
 									</div>
-
 								</a>
 							</div>
 						</div>
@@ -1039,10 +1019,9 @@
 									</picture>
 									<div class="desc">
 										<h2 class="lead-news-list-title">
-										পাঠান সুপ্রিম কোর্টের আইনজীবী রাসেল আল মামুন
+											পাঠান সুপ্রিম কোর্টের আইনজীবী রাসেল আল মামুন
 										</h2>
 									</div>
-
 								</a>
 							</div>
 						</div>
@@ -1054,10 +1033,9 @@
 									</picture>
 									<div class="desc">
 										<h2 class="lead-news-list-title">
-										লিগ্যাল নোটিশে বলা হয়েছে, হেড কোচ চন্ডিকা হাথুরুসিংহ 
+											লিগ্যাল নোটিশে বলা হয়েছে, হেড কোচ চন্ডিকা হাথুরুসিংহ
 										</h2>
 									</div>
-
 								</a>
 							</div>
 						</div>
@@ -1072,7 +1050,6 @@
 											সেপ্টেম্বরের শুরুতে ট্রায়াল রান, শেষ সপ্তাহে উদ্বোধন
 										</h2>
 									</div>
-
 								</a>
 							</div>
 						</div>
@@ -1084,18 +1061,14 @@
 									</picture>
 									<div class="desc">
 										<h2 class="lead-news-list-title">
-											 শেষ সপ্তাহে উদ্বোধন
+											শেষ সপ্তাহে উদ্বোধন
 										</h2>
 									</div>
-
 								</a>
 							</div>
 						</div>
 					</div>
 				</div>
-
-
-
 			</div>
 		</section>
 		<!-- sports-education-page -->
@@ -1120,7 +1093,7 @@
 													</picture>
 													<div class="desc">
 														<h2 class="lead-news-list-title">
-														তার জায়গা হলো না বাংলাদেশের বিশ্বকাপ দলে
+															তার জায়গা হলো না বাংলাদেশের বিশ্বকাপ দলে
 														</h2>
 														<p class="quote">নতুন প্লেয়ার তথা তানজিম তামিমকে এই বড় মঞ্চে ওঠানো ঠিক হবে না বরং অভিজ্ঞ তামিম ইকবালে ঠিক। একমাত্র ক্রিকেটার হিসেবে তামিমের টেস্ট, ওয়ানডে ও টি-টোয়েন্টি সেঞ্চুরি আছে। তামিম ইকবাল বাংলাদেশের ওয়ানডে ফরম্যাটে সবচেয়ে বেশি ১৪টি সেঞ্চুরির মালিক</p>
 
@@ -1131,9 +1104,9 @@
 																<div class="col-lg-7 col-7">
 																	<div class="desc">
 																		<h2 class="list-title">
-																		দুই জায়গাতেই সমান সাতটি করে সেঞ্চুরি আছে তামিমের
+																			দুই জায়গাতেই সমান সাতটি করে সেঞ্চুরি আছে তামিমের
 																		</h2>
-																		
+
 																	</div>
 																</div>
 																<div class="col-lg-5 col-5">
@@ -1157,9 +1130,9 @@
 														<div class="col-lg-7 col-7">
 															<div class="desc">
 																<h2 class="list-title">
-																নামবে আওয়ামী সংগঠন মেরামত করে ভোটের মাঠে
+																	নামবে আওয়ামী সংগঠন মেরামত করে ভোটের মাঠে
 																</h2>
-																
+
 															</div>
 														</div>
 														<div class="col-lg-5 col-5">
@@ -1178,7 +1151,7 @@
 																<h2 class="list-title">
 																	ভোটের মাঠে নামবে আওয়ামী লীগ
 																</h2>
-																
+
 															</div>
 														</div>
 														<div class="col-lg-5 col-5">
@@ -1195,9 +1168,9 @@
 														<div class="col-lg-7 col-7">
 															<div class="desc">
 																<h2 class="list-title">
-																বাংলাদেশের প্রতিটি গ্রাম নিঃসন্দেহে বৈচিত্র্যময়
+																	বাংলাদেশের প্রতিটি গ্রাম নিঃসন্দেহে বৈচিত্র্যময়
 																</h2>
-																
+
 															</div>
 														</div>
 														<div class="col-lg-5 col-5">
@@ -1214,9 +1187,9 @@
 														<div class="col-lg-7 col-7">
 															<div class="desc">
 																<h2 class="list-title">
-																ঠাকুরগাঁওয়ের রাণীশংকৈলে ২ শিশু সন্তানসহ মায়ের লাশ উদ্ধার করা হয়েছে
+																	ঠাকুরগাঁওয়ের রাণীশংকৈলে ২ শিশু সন্তানসহ মায়ের লাশ উদ্ধার করা হয়েছে
 																</h2>
-																
+
 															</div>
 														</div>
 														<div class="col-lg-5 col-5">
@@ -1233,9 +1206,9 @@
 														<div class="col-lg-7 col-7">
 															<div class="desc">
 																<h2 class="list-title">
-																আওয়ামী লীগ মেরামত করে ভোটের মাঠে নামবে
+																	আওয়ামী লীগ মেরামত করে ভোটের মাঠে নামবে
 																</h2>
-																
+
 															</div>
 														</div>
 														<div class="col-lg-5 col-5">
@@ -1248,11 +1221,9 @@
 											</div>
 										</div>
 									</div>
-
 								</div>
 							</div>
 							<div class="col-lg-4">
-
 								<div class="education-area">
 									<div class="section-heading">
 										<a href="#">
@@ -1275,13 +1246,13 @@
 										<div class="category-news-list">
 											<ul>
 												<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-														<p>  তৃতীয় বিভাগে
+														<p> তৃতীয় বিভাগে
 															তৃতীয় স্থান অধিকার করেছে ফয়সাল আহমেদ।</p>
 													</a></li>
 											</ul>
 											<ul>
 												<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-														<p> প্রতিযোগতার  বিভাগে
+														<p> প্রতিযোগতার বিভাগে
 															তৃতীয় স্থান অধিকার করেছে ফয়সাল আহমেদ।</p>
 													</a></li>
 											</ul>
@@ -1291,26 +1262,10 @@
 															তৃতীয় স্থান অধিকার করেছে </p>
 													</a></li>
 											</ul>
-											<!-- <ul>
-												<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-														<p> অধিকার  প্রতিযোগতার তৃতীয় বিভাগে
-															তৃতীয় স্থান করেছে ফয়সাল আহমেদ।</p>
-													</a></li>
-											</ul> -->
-											<!-- <ul>
-												<li><a href="#"><i class="fa-solid fa-angle-right"></i>
-														<p>তৃতীয় বিভাগে  প্রতিযোগতার 
-															তৃতীয় স্থান অধিকার করেছে ফয়সাল আহমেদ।</p>
-													</a></li>
-											</ul> -->
 										</div>
-
 									</div>
 								</div>
 							</div>
-
-
-
 						</div>
 					</div>
 					<div class="col-lg-3">
@@ -1327,10 +1282,6 @@
 									<img class="img-fluid img100" src="media/imgAll/ads/jamuna-new.gif" alt="Advertisement" title="Advertisement">
 								</picture>
 							</div>
-
-
-
-
 						</div>
 					</div>
 				</div>
@@ -1394,7 +1345,7 @@
 								<div class="col-lg-8 col-8">
 									<div class="desc">
 										<h2 class="list-title">
-										সরেজমিনে গিয়ে পারিবারিক ও স্থানীয়দের সূত্রে জানা গেছে
+											সরেজমিনে গিয়ে পারিবারিক ও স্থানীয়দের সূত্রে জানা গেছে
 										</h2>
 									</div>
 								</div>
@@ -1403,7 +1354,6 @@
 
 
 						</div>
-					
 					</div>
 					<div class="col-lg-6">
 						<div class="section-heading">
@@ -1413,8 +1363,8 @@
 						</div>
 						<div class="row">
 							<div class="col-lg-8">
-						
-							<div class="photo-gallery-lead-news">
+
+								<div class="photo-gallery-lead-news">
 									<div class="thumbnail">
 										<a href="/">
 											<picture>
@@ -1427,7 +1377,6 @@
 										</a>
 									</div>
 								</div>
-						
 							</div>
 							<div class="col-lg-4">
 								<div class="photo-list-area">
@@ -1462,7 +1411,6 @@
 										</a>
 									</div>
 								</div>
-
 							</div>
 						</div>
 					</div>
@@ -1474,23 +1422,17 @@
 									<img class="img-fluid img100" src="media/imgAll/ads/jamuna-new.gif" alt="Advertisement" title="Advertisement">
 								</picture>
 							</div>
-								<!-- advertisement -->
-							
-								<picture>
-									<img class="img-fluid img100" src="media/imgAll/ads/lead-ads.gif" alt="Advertisement" title="Advertisement">
-								</picture>
-							
-							
+							<!-- advertisement -->
+
+							<picture>
+								<img class="img-fluid img100" src="media/imgAll/ads/lead-ads.gif" alt="Advertisement" title="Advertisement">
+							</picture>
 						</div>
-
 					</div>
-
 				</div>
-				
 			</div>
 			</div>
 		</section>
-
 	</main>
 	<?php include_once("common/footer.php"); ?>
 	</div>

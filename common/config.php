@@ -78,9 +78,9 @@ $sDomainVerification='<meta name="p:domain_verify" content="">';
 $sMSClarity='';
 
 $sLogoURL=$sSiteURL."media/common/logo.png";
-$sLogoURLFooter=$sSiteURL."media/common/FLogo.png";
+$sLogoURLFooter=$sSiteURL."media/common/logo.png";
 $sLogoURLfb=$sSiteURL."media/common/logo-fb.png";
-$sFavicon=$sSiteURL."media/common/favicon.png";
+$sFavicon=$sSiteURL."media/common/favicon.ico";
 $sThumb=$sSiteURL."media/common/thumb.jpg";
 $sSign=$sSiteURL."media/common/Sign.png";
 
