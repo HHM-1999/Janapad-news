@@ -59,6 +59,9 @@ ul {margin:0;padding:0;}
 .dropdown-menu {display:none;min-width:12rem;padding-top:20px;background-color:#fff;border:0;}
 .dropdown-menu.show .drop-menu {background-color:#000;color:#f8f8f8;display:block;}
 .nav-link i {margin-right:10px;font-size:16px;}
+.navbar-toggler:focus {
+   box-shadow:none;
+}
 /* Dmain-news */
 .lead-news-media {margin-top:20px;}
 .lead-news-area {background:#dbd9d9;}
@@ -258,7 +261,7 @@ ul {margin:0;padding:0;}
 .DHeaderNav { background-color: #d0d0d0; }
  .navbar-default .navbar-nav > li > a 
  { font-size: 18px; color: #000; line-height: 26px; } 
- .nav-link i { margin-right: 10px; font-size: 22px; color: #000; } 
+ .nav-link i { margin-right: 10px; font-size: 18px; color: #000; } 
  .navbar-default{ background-color: #d0d0d0; color: #000; } .news-header{display:none;} .section-heading .Title {padding-top:20px;} .searchIcon i {color:#000;margin-top:12px;font-size:17px;cursor:pointer;display:flex;justify-content:center;padding:9px 0px 0 40px;} .search_block {background:#f2f3f4;padding:8px 0px;} .search_logo input {padding:6px;} .brand-logo-top img {width:180px;} .lead-news-area .Desc .Title {font-size:21px;padding:20px 10px;} .lead-news-area .Desc .Title {font-size:24px;} .lead-news-area .Desc .quote {display:none;} .national-text {display:none;} .lead-news-list:first-child {margin-top:20px;} .main-news-list{padding-bottom:20px;} .national-page{padding-bottom:20px;} .category-news-list ul li {list-style:none;padding:0 5px;overflow:hidden;} .category-news-list ul li a p {margin-top:10px;} .entertainment-area .quote {display:none;} .entertainment-lead-area .Desc .Title {color:#fff;font-size:18px;font-weight:600;line-height:26px;} .sara-desh-section .DNationalList:first-child {padding-top:20px;} .international-img .Desc h3 {height:100%;} .entertainment-lead-area {margin-bottom:20px;} .sport-lead-news-list .lead-news-list-title {padding-bottom:20px;} .sport-lead-news-list .desc .quote {display:none;} .sport-news-list img {aspect-ratio:1.95;} .sport-lead-news-list img {aspect-ratio:1.95;} .list-title {margin-top:0px;} .advertisement-img {padding-bottom:20px;} .foot-text-area {display:flex;justify-content:left;} .foot-text-area p {display:flex;text-align:justify;margin-right:0;} .photoGallery-advertise {margin-top:40px;} .photo-gallery-lead-news {position:relative;margin-bottom:10px;} .DVideoListItem .Desc h4 {height:90px;} .photo-list-area .DVideoListItem .Desc{height:55px;}} 
 /* MD Device :768px. */ @media (min-width:768px) and (max-width:991px) {.news-header{display:block;} .news-header2{display:none;}}
  /* LG Device :992px. */ @media (min-width:992px) and (max-width:1200px) {.news-header{display:block;} .news-header2{display:none;}}
