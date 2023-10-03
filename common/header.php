@@ -115,34 +115,42 @@
 			<div class="row">
 				<div class="col-3">
 					<nav class="navbar navbar-default navbar-expand-lg ">
-						<button class="d-flex justify-content-between navbar-toggler navbar-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+						<button class="d-flex justify-content-between navbar-toggler navbar-light" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">
 							<span class="navbar-toggler-icon"></span>
 						</button>
-						<div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-							<ul class="nav navbar-nav">
-								<li class="nav-item"><a class="nav-link" href="#"><i class="fa fa-home" aria-hidden="true"></i></a></li>
-								<li class="nav-item"><a class="nav-link" href="#">জাতীয়</a></li>
-								<li class="nav-item"><a class="nav-link" href="#">রাজনীতি</a></li>
-								<li class="nav-item"><a class="nav-link" href="#">সারাদেশ</a></li>
-								<li class="nav-item"><a class="nav-link" href="#">আন্তর্জাতিক</a></li>
-								<li class="nav-item"><a class="nav-link" href="#">খেলা</a></li>
-								<li class="nav-item"><a class="nav-link" href="#">বিনোদন</a></li>
-								<li class="nav-item"><a class="nav-link" href="#">অর্থ-বাণিজ্য</a></li>
-								<li class="nav-item"><a class="nav-link" href="#">শিক্ষা</a></li>
-								<li class="nav-item"><a class="nav-link" href="#">প্রযুক্তি</a></li>
-								<li class="nav-item"><a class="nav-link" href="#">ভিডিও</a></li>
-								<li class="dropdown"><a href="#" class="nav-link " data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fas fa-bars"></i> অন্যান্য<span class="caret"></span></a>
-									<ul class="dropdown-menu">
-										<li class="nav-item"><a class="nav-link" href="/##">আইন-আদালত</a></li>
-										<li class="nav-item"><a class="nav-link" href="#">প্রবাস</a></li>
-										<li class="nav-item"><a class="nav-link" href="#">মতামত</a></li>
-										<li class="nav-item"><a class="nav-link" href="#">চাকরি</a></li>
-										<li class="nav-item"><a class="nav-link" href="#">স্বাস্থ্য সংবাদ</a></li>
-										<li class="nav-item"><a class="nav-link" href="#">লাইফস্টাইল</a></li>
-										<li class="nav-item"><a class="nav-link" href="#">ধর্ম</a></li>
+						<div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
+							<div class="offcanvas-header   d-flex ">
+							     <a class="nav-link justify-content-start" href="#"><i class="fa fa-home" aria-hidden="true"></i></a>
+								<button type="button" class="btn-close justify-content-end" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+							</div>
+							<div class="offcanvas-body">
+								<div  id="navbarTogglerDemo01">
+									<ul class="nav navbar-nav">
+										<li class="nav-item"></li>
+										<li class="nav-item"><a class="nav-link" href="#">জাতীয়</a></li>
+										<li class="nav-item"><a class="nav-link" href="#">রাজনীতি</a></li>
+										<li class="nav-item"><a class="nav-link" href="#">সারাদেশ</a></li>
+										<li class="nav-item"><a class="nav-link" href="#">আন্তর্জাতিক</a></li>
+										<li class="nav-item"><a class="nav-link" href="#">খেলা</a></li>
+										<li class="nav-item"><a class="nav-link" href="#">বিনোদন</a></li>
+										<li class="nav-item"><a class="nav-link" href="#">অর্থ-বাণিজ্য</a></li>
+										<li class="nav-item"><a class="nav-link" href="#">শিক্ষা</a></li>
+										<li class="nav-item"><a class="nav-link" href="#">প্রযুক্তি</a></li>
+										<li class="nav-item"><a class="nav-link" href="#">ভিডিও</a></li>
+										<li class="dropdown"><a href="#" class="nav-link " id="dropdownMenuButton" data-toggle="dropdown" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fas fa-bars"></i> অন্যান্য<span class="caret"></span></a>
+										<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+												<li class="nav-item"><a class="nav-link" href="#">আইন-আদালত</a></li>
+												<li class="nav-item"><a class="nav-link" href="#">প্রবাস</a></li>
+												<li class="nav-item"><a class="nav-link" href="#">মতামত</a></li>
+												<li class="nav-item"><a class="nav-link" href="#">চাকরি</a></li>
+												<li class="nav-item"><a class="nav-link" href="#">স্বাস্থ্য সংবাদ</a></li>
+												<li class="nav-item"><a class="nav-link" href="#">লাইফস্টাইল</a></li>
+												<li class="nav-item"><a class="nav-link" href="#">ধর্ম</a></li>
+											</ul>
+										</li>
 									</ul>
-								</li>
-							</ul>
+								</div>
+							</div>
 						</div>
 					</nav>
 				</div>

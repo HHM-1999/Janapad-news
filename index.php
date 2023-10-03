@@ -349,7 +349,7 @@
 				</div>
 				<div class="DVideoList">
 					<div class="row">
-						<div class="col-lg-6 col-sm-6 rowresize">
+						<div class="col-lg-6 col-sm-6">
 							<div class="DVideoTop">
 								<a href="/">
 									<div class="DImgZoomBlock">
@@ -366,7 +366,7 @@
 								</a>
 							</div>
 						</div>
-						<div class="col-lg-6 col-12 rowresize">
+						<div class="col-lg-6 col-12">
 							<div class="DVideoList">
 								<div class="row">
 									<div class="col-lg-6 col-6">
