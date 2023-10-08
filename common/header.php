@@ -115,7 +115,7 @@
 			<div class="row">
 				<div class="col-3">
 					<nav class="navbar navbar-default navbar-expand-lg ">
-						<button class="d-flex justify-content-between navbar-toggler navbar-light" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">
+						<button class="d-flex justify-content-between navbar-toggler navbar-dark" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">
 							<span class="navbar-toggler-icon"></span>
 						</button>
 						<div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
@@ -156,7 +156,7 @@
 				</div>
 				<div class="col-6">
 					<a class="brand-logo-top  " title="Jonopad News" href="#">
-						<img class="img-fluid" src="media/common/logo.png" alt="Jonopad-news">
+						<img class="img-fluid" src="media/imgAll/icon/white-logo.png" alt="Jonopad-news">
 					</a>
 				</div>
 				<div class=" col-3">
